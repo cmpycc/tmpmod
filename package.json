@@ -1,0 +1,9 @@
+{
+    "name": "cc.cmpy.tmpmod",
+    "displayName": "TMP Modifier",
+    "version": "1.0.0",
+    "description": "Comes with a simple general-purpose modifier for TextMesh Pro.",
+    "dependencies": {
+        "com.unity.textmeshpro": "*"
+    }
+}
