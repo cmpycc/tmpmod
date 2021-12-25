@@ -53,7 +53,6 @@ namespace cmpy.TMP
 
             if (vertexUpdatePending)
             {
-                print("update ver");
                 UpdateVertexData();
                 vertexUpdatePending = false;
             }
