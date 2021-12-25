@@ -292,6 +292,7 @@ namespace cmpy.TMP
             {
                 this.parent = parent;
                 this.transform = transform;
+                _vertexGradient = parent.text.colorGradient;
             }
 
 #if ETWEEN_INCLUDED
